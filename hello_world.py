@@ -1,1 +1,1 @@
-print("Hello from featur")
+print("Hello from feature")
